@@ -57,8 +57,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [Getting Started with Cairo 1.0](https://www.argent.xyz/blog/getting-started-with-cairo-1.0/) – Learn everything you need to know about the new and improved Cairo
 - [A First Look at Cairo 1.0](https://medium.com/nethermind-eth/a-first-look-at-cairo-1-0-a-safer-stronger-simpler-provable-programming-language-892ce4c07b38) – This blog post will take you through the new features added to Cairo and discuss how they will improve the language
 - [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) – An interactive tutorial to get you up and running with Cairo and Starknet
-- [From solidity to Cairo 1](https://lead-archeology-a38.notion.site/From-Solidity-to-Cairo-1-0-WIP-07097d7de1ad45d9b7c6c63f60b7141c) - A guide for solidity devs than want to create smart contracts in Cairo 1 - Eng.
-- [From solidity to Cairo 1](https://from-solidity-to-cairo.notion.site/From-Solidity-to-Cairo-1-0-WIP-9d6aad0ba8c24771bd523df74796e87e) - Una guía para apoyar a los devs de solidity a crear smart contracts en Cairo 1 - Esp.
+- [From solidity to Cairo 1.0](https://lead-archeology-a38.notion.site/From-Solidity-to-Cairo-1-0-WIP-07097d7de1ad45d9b7c6c63f60b7141c) - A guide for solidity devs than want to create smart contracts in Cairo 1 - Eng.
+- [From solidity to Cairo .0](https://from-solidity-to-cairo.notion.site/From-Solidity-to-Cairo-1-0-WIP-9d6aad0ba8c24771bd523df74796e87e) - Una guía para apoyar a los devs de solidity a crear smart contracts en Cairo 1 - Esp.
 
 **[back to top](#contents)**
 
