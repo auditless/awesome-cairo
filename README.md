@@ -29,6 +29,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 - [`dojo`](https://github.com/dojoengine/dojo) – A full stack toolchain for developing onchain games in Cairo
 - [`kakarot-ssj`](https://github.com/sayajin-labs/kakarot-ssj) – Kakarot ZK-EVM in Cairo 1.0
+- [`starknet-commit-reveal`](https://github.com/gaetbout/starknet-commit-reveal) – Commit-reveal implementation
 
 **[back to top](#contents)**
 
