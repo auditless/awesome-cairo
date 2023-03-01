@@ -72,6 +72,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 - [`cairo-resources-list`](https://github.com/NewtonDAO/cairo-resources-list) A curated list of awesome Cairo resources, libraries, tools and more
 - [`cairo-goldmine`](https://github.com/beautyisourbusiness/cairo-goldmine) A comprehensive, annotated list of repositories of the Starknet ecosystem
+- [`newton`](https://www.newton.so) A series of Q&As and FAQs about StarkNet developer tools and Cairo 0.x
 
 **[back to top](#contents)**
 
