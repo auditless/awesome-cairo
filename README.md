@@ -16,6 +16,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Libraries
 
+- [`cairo_ml`](https://github.com/raphaelDkhn/cairo_ml) – Build neural network models in Cairo 1.0 to perform inference
 - [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) - Built in Cairo 1.0 standard library
 - [`quaireaux`](https://github.com/keep-starknet-strange/quaireaux) – Community maintained standard library for Cairo 1.0
 
@@ -59,6 +60,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [Getting Started with Cairo 1.0](https://www.argent.xyz/blog/getting-started-with-cairo-1.0/) – Learn everything you need to know about the new and improved Cairo
 - [A First Look at Cairo 1.0](https://medium.com/nethermind-eth/a-first-look-at-cairo-1-0-a-safer-stronger-simpler-provable-programming-language-892ce4c07b38) – This blog post will take you through the new features added to Cairo and discuss how they will improve the language
 - [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) – An interactive tutorial to get you up and running with Cairo and Starknet
+- [Reading Sierra: Starknet's secret sauce for Cairo 1.0](https://medium.com/yagi-fi/reading-sierra-starknets-secret-sauce-for-cairo-1-0-5bc73409e43c) – A tutorial for reading Sierra
 
 **[back to top](#contents)**
 
