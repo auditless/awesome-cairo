@@ -19,6 +19,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`cairo_ml`](https://github.com/raphaelDkhn/cairo_ml) – Build neural network models in Cairo 1.0 to perform inference
 - [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) - Built in Cairo 1.0 standard library
 - [`quaireaux`](https://github.com/keep-starknet-strange/quaireaux) – Community maintained standard library for Cairo 1.0
+- [`neural-network-cairo`](https://github.com/franalgaba/neural-network-cairo) – Neural Network for MNIST in Cairo 1.0
 
 **[back to top](#contents)**
 
