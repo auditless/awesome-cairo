@@ -62,6 +62,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [A First Look at Cairo 1.0](https://medium.com/nethermind-eth/a-first-look-at-cairo-1-0-a-safer-stronger-simpler-provable-programming-language-892ce4c07b38) – This blog post will take you through the new features added to Cairo and discuss how they will improve the language
 - [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) – An interactive tutorial to get you up and running with Cairo and Starknet
 - [Reading Sierra: Starknet's secret sauce for Cairo 1.0](https://medium.com/yagi-fi/reading-sierra-starknets-secret-sauce-for-cairo-1-0-5bc73409e43c) – A tutorial for reading Sierra
+- [`HERDAO-cairo`](https://github.com/omarespejel/HERDAO-Cairo) - First smart contracts with Cairo and HER DAO
 
 **[back to top](#contents)**
 
