@@ -34,6 +34,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`kakarot-ssj`](https://github.com/sayajin-labs/kakarot-ssj) – Kakarot ZK-EVM in Cairo 1.0
 - [`starknet-commit-reveal`](https://github.com/gaetbout/starknet-commit-reveal) – Commit-reveal implementation
 - [`Cairo1.0 by Examples`](https://github.com/CeliktepeMurat/Cairo1.0_by_Examples/tree/main) – Cairo 1.0 examples
+- [`kass`](https://github.com/ruleslabs/kass) – L1 <-> L2 Starknet ERC1155 Bridge
 
 **[back to top](#contents)**
 
