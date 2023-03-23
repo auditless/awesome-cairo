@@ -21,6 +21,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`quaireaux`](https://github.com/keep-starknet-strange/quaireaux) – Community maintained standard library for Cairo 1.0
 - [`neural-network-cairo`](https://github.com/franalgaba/neural-network-cairo) – Neural Network for MNIST in Cairo 1.0
 - [`cubit`](https://github.com/influenceth/cubit) – A fixed point math library in 64.64 representation built for Cairo 1.0
+- [`erc20.cairo`](https://github.com/starkware-libs/cairo/blob/main/crates/cairo-lang-starknet/test_data/erc20.cairo) – StarkWare's test ERC20 implementation
+- [`erc721.cairo`](https://github.com/reddio-com/cairo/blob/main/token/ERC721/erc721.cairo) – An early ERC721 implementation
 
 **[back to top](#contents)**
 
