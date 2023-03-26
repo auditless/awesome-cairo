@@ -71,6 +71,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [Reading Sierra: Starknet's secret sauce for Cairo 1.0](https://medium.com/yagi-fi/reading-sierra-starknets-secret-sauce-for-cairo-1-0-5bc73409e43c) – A guide to reading Sierra syntax
 - [How to write ERC721 contracts with Cairo 1.0](https://blog.reddio.com/how-to-write-erc721-contracts-with-cairo-1/) – Guide to writing an ERC721 contract
 - [Under the hood of Cairo 1.0: Exploring Sierra](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) – A deep-dive into the purpose of Sierra
+- [`0to1CairoDemo`](https://github.com/NethermindEth/0to1CairoDemo) – Steps to upgrade from cairo 0 upgradeable contract to cairo 1 upgradeable contract
 
 **[back to top](#contents)**
 
