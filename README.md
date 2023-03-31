@@ -40,6 +40,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`starknet-commit-reveal`](https://github.com/gaetbout/starknet-commit-reveal) – Commit-reveal implementation
 - [`Cairo1.0 by Examples`](https://github.com/CeliktepeMurat/Cairo1.0_by_Examples/tree/main) – Cairo 1.0 examples
 - [`kass`](https://github.com/ruleslabs/kass) – L1 <-> L2 Starknet ERC1155 Bridge
+- [`RockPaperScissors-Cairo`](https://github.com/Kalzak/RockPaperScissors-Cairo/tree/main) – Commit-reveal based Rock-Paper-Scissors
 
 **[back to top](#contents)**
 
@@ -74,6 +75,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [How to write ERC721 contracts with Cairo 1.0](https://blog.reddio.com/how-to-write-erc721-contracts-with-cairo-1/) – Guide to writing an ERC721 contract
 - [Under the hood of Cairo 1.0: Exploring Sierra](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) – A deep-dive into the purpose of Sierra
 - [`0to1CairoDemo`](https://github.com/NethermindEth/0to1CairoDemo) – Steps to upgrade from cairo 0 upgradeable contract to cairo 1 upgradeable contract
+- [`deploy-cairo1-demo`](https://github.com/starknet-edu/deploy-cairo1-demo) – Official StarkWare tutorial for deploying a Cairo 1 contract
+- [`starknet-accounts-cairo1`](https://github.com/FelixGibson/starknet-accounts-cairo1) – Starknet account abstraction workshop
 
 **[back to top](#contents)**
 
