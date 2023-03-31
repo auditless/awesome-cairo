@@ -16,6 +16,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Libraries
 
+- [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) – OpenZeppelin's cairo1 development branch
 - [`cairo_ml`](https://github.com/raphaelDkhn/cairo_ml) – Build neural network models in Cairo 1.0 to perform inference
 - [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) - Built in Cairo 1.0 standard library
 - [`quaireaux`](https://github.com/keep-starknet-strange/quaireaux) – Community maintained standard library for Cairo 1.0
