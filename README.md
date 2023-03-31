@@ -67,10 +67,12 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [Getting Started with Cairo 1.0](https://www.argent.xyz/blog/getting-started-with-cairo-1.0/) – Learn everything you need to know about the new and improved Cairo
 - [A First Look at Cairo 1.0](https://medium.com/nethermind-eth/a-first-look-at-cairo-1-0-a-safer-stronger-simpler-provable-programming-language-892ce4c07b38) – This blog post will take you through the new features added to Cairo and discuss how they will improve the language
 - [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) – An interactive tutorial to get you up and running with Cairo and Starknet
+- [`starklings-cairo1` solutions](https://github.com/Akashneelesh/starklings-cairo1) – Solutions to starklings exercises
 - [Reading Sierra: Starknet's secret sauce for Cairo 1.0](https://medium.com/yagi-fi/reading-sierra-starknets-secret-sauce-for-cairo-1-0-5bc73409e43c) – A tutorial for reading Sierra
 - [`HERDAO-cairo`](https://github.com/omarespejel/HERDAO-Cairo) - First smart contracts with Cairo and HER DAO
 - [How to write ERC721 contracts with Cairo 1.0](https://blog.reddio.com/how-to-write-erc721-contracts-with-cairo-1/) – Guide to writing an ERC721 contract
 - [Under the hood of Cairo 1.0: Exploring Sierra](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) – A deep-dive into the purpose of Sierra
+- [`0to1CairoDemo`](https://github.com/NethermindEth/0to1CairoDemo) – Steps to upgrade from cairo 0 upgradeable contract to cairo 1 upgradeable contract
 
 **[back to top](#contents)**
 
