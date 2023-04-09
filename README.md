@@ -4,13 +4,19 @@ A curated list of Cairo 1.0 code and resources.
 
 ## Contents
 
-- [Libraries](#libraries)
-- [Misc](#misc)
-- [Projects](#projects)
-- [References](#references)
-- [Templates](#templates)
-- [Tools](#tools)
-- [Tutorials](#tutorials)
+- [Awesome Cairo     ](#awesome-cairo-----)
+  - [Contents](#contents)
+  - [Libraries](#libraries)
+  - [Misc](#misc)
+  - [Projects](#projects)
+  - [References](#references)
+  - [Templates](#templates)
+  - [Tools](#tools)
+  - [Tutorials](#tutorials)
+  - [Other Lists](#other-lists)
+    - [Starknet](#starknet)
+    - [Cairo 0.x](#cairo-0x)
+  - [License](#license)
 
 Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
@@ -41,6 +47,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`Cairo1.0 by Examples`](https://github.com/CeliktepeMurat/Cairo1.0_by_Examples/tree/main) – Cairo 1.0 examples
 - [`kass`](https://github.com/ruleslabs/kass) – L1 <-> L2 Starknet ERC1155 Bridge
 - [`RockPaperScissors-Cairo`](https://github.com/Kalzak/RockPaperScissors-Cairo/tree/main) – Commit-reveal based Rock-Paper-Scissors
+- [`InstaSwap`](https://github.com/BibliothecaDAO/InstaSwap) – Decentralized token swap protocol for ERC-1155 tokens on Starknet.
 
 **[back to top](#contents)**
 
