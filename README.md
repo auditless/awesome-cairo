@@ -48,6 +48,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`kass`](https://github.com/ruleslabs/kass) – L1 <-> L2 Starknet ERC1155 Bridge
 - [`RockPaperScissors-Cairo`](https://github.com/Kalzak/RockPaperScissors-Cairo/tree/main) – Commit-reveal based Rock-Paper-Scissors
 - [`InstaSwap`](https://github.com/BibliothecaDAO/InstaSwap) – Decentralized token swap protocol for ERC-1155 tokens on Starknet.
+- [`rollyourown`](https://github.com/cartridge-gg/rollyourown) – On-chain adaptation of the original Drug Wars game
+- [`shoshin-cairo1`](https://github.com/topology-gg/shoshin-cairo-1) – On-chain fighting game in Cairo 1
 
 **[back to top](#contents)**
 
