@@ -86,6 +86,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`0to1CairoDemo`](https://github.com/NethermindEth/0to1CairoDemo) – Steps to upgrade from cairo 0 upgradeable contract to cairo 1 upgradeable contract
 - [`deploy-cairo1-demo`](https://github.com/starknet-edu/deploy-cairo1-demo) – Official StarkWare tutorial for deploying a Cairo 1 contract
 - [`starknet-accounts-cairo1`](https://github.com/FelixGibson/starknet-accounts-cairo1) – Starknet account abstraction workshop
+- [`cairopractice`](https://cairopractice.com/) - Cairo 1.0 and Starknet blog
 
 **[back to top](#contents)**
 
