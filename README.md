@@ -87,6 +87,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`deploy-cairo1-demo`](https://github.com/starknet-edu/deploy-cairo1-demo) – Official StarkWare tutorial for deploying a Cairo 1 contract
 - [`starknet-accounts-cairo1`](https://github.com/FelixGibson/starknet-accounts-cairo1) – Starknet account abstraction workshop
 - [`cairopractice`](https://cairopractice.com/) - Cairo 1.0 and Starknet blog
+- [`Cairo1.0`](https://github.com/Starknet-Africa-Edu/Cairo1.0) – Mini Cairo 1.0 tutorial by Starknet Africa
 
 **[back to top](#contents)**
 
