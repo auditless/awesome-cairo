@@ -75,6 +75,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Tutorials
 
+- [The Cairo Book](https://github.com/cairo-book/cairo-book.github.io) – The Cairo Programming Language Book
 - [Getting Started with Cairo 1.0](https://www.argent.xyz/blog/getting-started-with-cairo-1.0/) – Learn everything you need to know about the new and improved Cairo
 - [A First Look at Cairo 1.0](https://medium.com/nethermind-eth/a-first-look-at-cairo-1-0-a-safer-stronger-simpler-provable-programming-language-892ce4c07b38) – This blog post will take you through the new features added to Cairo and discuss how they will improve the language
 - [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) – An interactive tutorial to get you up and running with Cairo and Starknet
