@@ -50,6 +50,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`InstaSwap`](https://github.com/BibliothecaDAO/InstaSwap) – Decentralized token swap protocol for ERC-1155 tokens on Starknet.
 - [`rollyourown`](https://github.com/cartridge-gg/rollyourown) – On-chain adaptation of the original Drug Wars game
 - [`shoshin-cairo1`](https://github.com/topology-gg/shoshin-cairo-1) – On-chain fighting game in Cairo 1
+- [`bto-cairo-1`](https://github.com/topology-gg/bto-cairo-1) – Binary Tree Operations in Cairo 1
+- [`2wrds_cntrcts`](https://github.com/greged93/2wrds_cntrcts) – 2wrds project
 
 **[back to top](#contents)**
 
@@ -64,6 +66,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`auditless/cairo-template`](https://github.com/auditless/cairo-template) – A minimal template for building smart contracts with Cairo 1.0
 - [`msaug/cairo1-template`](https://github.com/msaug/cairo1-template) – A template to get you started with Cairo 1
 - [ArgentX Cairo template](https://github.com/argentlabs/starknet-build/tree/main/cairo1.0) – ArgentX Cairo template
+- [`cairo1-mocha`](https://github.com/enitrat/cairo1-mocha) – This project aims to provide a simple way of testing your contracts using Mocha and StarknetJS
 
 **[back to top](#contents)**
 
