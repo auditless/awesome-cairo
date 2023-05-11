@@ -2,6 +2,8 @@
 
 A curated list of Cairo 1.0 code and resources.
 
+"A Cairo Wikipedia" ~StarknetAfrica
+
 ## Contents
 
 - [Awesome Cairo     ](#awesome-cairo-----)
