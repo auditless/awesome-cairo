@@ -28,7 +28,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`cairo_ml`](https://github.com/raphaelDkhn/cairo_ml) – Build neural network models in Cairo 1.0 to perform inference
 - [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) - Built in Cairo 1.0 standard library
 - [`quaireaux`](https://github.com/keep-starknet-strange/quaireaux) – Community maintained standard library for Cairo 1.0
-- [`onnx-cairo`](https://github.com/franalgaba/onnx-cairo) - ONNX Runtime in Cairo 1.0 for verifiable inference of trained ML models
+- [`orion`](https://github.com/gizatechxyz/orion) - library for verifiable ML inference in Cairo 1.0
 - [`neural-network-cairo`](https://github.com/franalgaba/neural-network-cairo) – Neural Network for MNIST in Cairo 1.0
 - [`cubit`](https://github.com/influenceth/cubit) – A fixed point math library in 64.64 representation built for Cairo 1.0
 - [`erc20.cairo`](https://github.com/starkware-libs/cairo/blob/main/crates/cairo-lang-starknet/test_data/erc20.cairo) – StarkWare's test ERC20 implementation
