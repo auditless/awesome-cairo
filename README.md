@@ -54,7 +54,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`shoshin-cairo1`](https://github.com/topology-gg/shoshin-cairo-1) – On-chain fighting game in Cairo 1
 - [`bto-cairo-1`](https://github.com/topology-gg/bto-cairo-1) – Binary Tree Operations in Cairo 1
 - [`2wrds_cntrcts`](https://github.com/greged93/2wrds_cntrcts) – 2wrds project
-
+- [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) 
+- 
 **[back to top](#contents)**
 
 ## References
