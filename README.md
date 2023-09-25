@@ -35,6 +35,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`erc721.cairo`](https://github.com/reddio-com/cairo/blob/main/token/ERC721/erc721.cairo) – An early ERC721 implementation
 - [`suna`](https://github.com/auditless/suna) – Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols
 - [`arcade-accounts`](https://github.com/BibliothecaDAO/arcade-account) - Starknet Accounts with fine grain permissions for use in onchain games
+- [`cairo1-bytes`](https://github.com/zkLinkProtocol/cairo1-bytes) - Solidity likely bytes by [zkLink](https://zk.link/) in Cairo 1.0. 
 
 **[back to top](#contents)**
 
