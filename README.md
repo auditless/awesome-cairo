@@ -37,11 +37,11 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`suna`](https://github.com/auditless/suna) – Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols
 - [`arcade-accounts`](https://github.com/BibliothecaDAO/arcade-account) - Starknet Accounts with fine grain permissions for use in onchain games
 - [`graffiti`](https://github.com/milancermak/graffiti/) - A Cairo library for building XML based documents
-- [`graffiti`](https://github.com/milancermak/graffiti/) - A Cairo library for building XML based documents
 
 **[back to top](#contents)**
 
 ## Cairo VM
+
 - [`cairo-vm`](https://github.com/lambdaclass/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. 
 - [`cairo-vm-ts`](https://github.com/kkrt-labs/cairo-vm-ts) - A typescript implementation of the Cairo VM.
 - [`cairo-vm-go`](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go.
