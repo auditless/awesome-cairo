@@ -9,6 +9,7 @@ A curated list of Cairo 1.0 code and resources.
 - [Awesome Cairo     ](#awesome-cairo-----)
   - [Contents](#contents)
   - [Libraries](#libraries)
+  - [Cairo VM](#cairo-vm)
   - [Misc](#misc)
   - [Projects](#projects)
   - [References](#references)
@@ -35,8 +36,19 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`erc721.cairo`](https://github.com/reddio-com/cairo/blob/main/token/ERC721/erc721.cairo) – An early ERC721 implementation
 - [`suna`](https://github.com/auditless/suna) – Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols
 - [`arcade-accounts`](https://github.com/BibliothecaDAO/arcade-account) - Starknet Accounts with fine grain permissions for use in onchain games
+- [`graffiti`](https://github.com/milancermak/graffiti/) - A Cairo library for building XML based documents
 
 **[back to top](#contents)**
+
+## Cairo VM
+
+- [`cairo-vm`](https://github.com/lambdaclass/cairo-vm) - cairo-vm is a Rust implementation of the Cairo VM. 
+- [`cairo-vm-ts`](https://github.com/kkrt-labs/cairo-vm-ts) - A typescript implementation of the Cairo VM.
+- [`cairo-vm-go`](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go.
+- [`cairo-zig`](https://github.com/keep-starknet-strange/cairo-zig) - Cairo VM in Zig.
+
+**[back to top](#contents)**
+
 
 ## Misc
 
@@ -70,8 +82,10 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 - [`auditless/cairo-template`](https://github.com/auditless/cairo-template) – A minimal template for building smart contracts with Cairo 1.0
 - [`msaug/cairo1-template`](https://github.com/msaug/cairo1-template) – A template to get you started with Cairo 1
-- [ArgentX Cairo template](https://github.com/argentlabs/starknet-build/tree/main/cairo1.0) – ArgentX Cairo template
+- [`ArgentX Cairo template`](https://github.com/argentlabs/starknet-build/tree/main/cairo1.0) – ArgentX Cairo template
 - [`cairo1-mocha`](https://github.com/enitrat/cairo1-mocha) – This project aims to provide a simple way of testing your contracts using Mocha and StarknetJS
+- [`starknet-erc20`](https://github.com/starknet-edu/starknet-erc20) - Learn how to deploy and customize an ERC20 token on StarkNet
+- [`starknet-erc721`](https://github.com/starknet-edu/starknet-erc721) - Learn how to deploy and customize an ERC721 token on StarkNet
 
 **[back to top](#contents)**
 
