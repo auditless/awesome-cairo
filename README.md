@@ -32,7 +32,6 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 - [`orion`](https://github.com/gizatechxyz/orion) - library for verifiable ML inference in Cairo 1.0
 - [`neural-network-cairo`](https://github.com/franalgaba/neural-network-cairo) – Neural Network for MNIST in Cairo 1.0
 - [`cubit`](https://github.com/influenceth/cubit) – A fixed point math library in 64.64 representation built for Cairo 1.0
-- [`erc20.cairo`](https://github.com/starkware-libs/cairo/blob/main/crates/cairo-lang-starknet/test_data/erc20.cairo) – StarkWare's test ERC20 implementation
 - [`erc721.cairo`](https://github.com/reddio-com/cairo/blob/main/token/ERC721/erc721.cairo) – An early ERC721 implementation
 - [`suna`](https://github.com/auditless/suna) – Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols
 - [`arcade-accounts`](https://github.com/BibliothecaDAO/arcade-account) - Starknet Accounts with fine grain permissions for use in onchain games
