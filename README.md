@@ -92,6 +92,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 - [`scarb`](https://docs.swmansion.com/scarb) – The project management tool for the Cairo language
 - [`protostar`](https://docs.swmansion.com/protostar) – The Starknet smart contract development toolchain
+- [`WASM-Cairo`](https://github.com/cryptonerdcn/wasm-cairo) – A suite of development tools based on WebAssembly for the Cairo language and the Starknet smart contract
 
 **[back to top](#contents)**
 
